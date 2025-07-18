@@ -42,6 +42,7 @@ env/
 
 # Data Files
 *.csv
+!data/AEP_hourly_sample.csv
 *.json
 *.pkl
 *.h5
