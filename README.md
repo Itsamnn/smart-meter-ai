@@ -216,10 +216,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **[Your Name]** - Project Lead & AI/ML Developer
-- **[Team Member 2]** - Hardware Engineer
-- **[Team Member 3]** - Software Developer
-- **[Team Member 4]** - System Integration
+- **Aman Patel**
+- **Sujal Gaikwad** 
+- **Sakshi Patil**
+- **Rushikesh Patil**
 
 ## 🙏 Acknowledgments
 
@@ -230,9 +230,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Email**: your.email@university.edu
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Project Demo**: [Demo URL]
+- **Email**: amanpatel2020402@gmail.com
+- **LinkedIn**: [www.linkedin.com/in/itsamn](https://www.linkedin.com/in/itsamn)
+- **GitHub**: [github.com/Itsamnn](https://github.com/Itsamnn)
 
 ---
 

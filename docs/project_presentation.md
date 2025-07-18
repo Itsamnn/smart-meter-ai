@@ -413,10 +413,10 @@ An intelligent energy meter that:
 ## 👥 Team & Acknowledgments
 
 ### Project Team
-- **[Your Name]**: Project Lead, AI/ML Development
-- **Team Member 2**: Hardware Design & Development
-- **Team Member 3**: Software Development & Testing
-- **Team Member 4**: System Integration & Documentation
+- **Aman Patel**
+- **Sujal Gaikwad**
+- **Sakshi Patil**
+- **Rushikesh Patil**
 
 ### Mentors & Advisors
 - **Dr. [Supervisor Name]**: Project Supervisor
@@ -433,20 +433,19 @@ An intelligent energy meter that:
 ## 📞 Contact & Demo
 
 ### Live Demo
-- **Web Dashboard**: [demo-url.com]
-- **Mobile App**: Available on Play Store
-- **Hardware Demo**: Available for physical inspection
+- **Web Dashboard**: Run locally with `streamlit run src/enhanced_app.py`
+- **API Server**: Start with `python api/iot_integration.py`
+- **Hardware Demo**: Physical prototype available for inspection
 
 ### Contact Information
-- **Email**: [your-email@university.edu]
-- **Phone**: [your-phone-number]
-- **LinkedIn**: [your-linkedin-profile]
-- **GitHub**: [your-github-profile]
+- **Email**: amanpatel2020402@gmail.com
+- **LinkedIn**: [www.linkedin.com/in/itsamn](https://www.linkedin.com/in/itsamn)
+- **GitHub**: [github.com/Itsamnn](https://github.com/Itsamnn)
 
 ### Project Repository
-- **Code**: github.com/[username]/smart-meter-ai
-- **Documentation**: [project-docs-url]
-- **Demo Videos**: [youtube-playlist-url]
+- **Code**: [github.com/Itsamnn/smart-meter-ai](https://github.com/Itsamnn/smart-meter-ai)
+- **Documentation**: Available in repository docs folder
+- **Demo Videos**: Coming soon
 
 ---
 
