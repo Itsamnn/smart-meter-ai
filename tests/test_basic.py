@@ -43,7 +43,7 @@ class TestFeatureEngineering:
     def setup_method(self):
         """Setup test data"""
         self.df = pd.DataFrame({
-            'Datetime': pd.date_range('2024-01-01', periods=100, freq='H'),
+            'Datetime': pd.date_range('2024-01-01', periods=100, freq='h'),
             'AEP_MW': np.random.uniform(1000, 2000, 100)
         })
     
